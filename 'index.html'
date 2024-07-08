@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<html lang="te">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lakshmi A - HR Manager & Sales Director</title>
+    <style>
+        body {
+            font-family: Aleo, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        p {
+            font-size: 14px;
+            animation: typing-animation 5s steps(40) infinite;
+            white-space: nowrap;
+            overflow: hidden;
+            border-right: 2px solid;
+        }
+        @keyframes typing-animation {
+            from { width: 0 }
+            to { width: 100% }
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        .contact-info {
+            margin-top: 20px;
+        }
+        .summary {
+            margin-top: 20px;
+        }
+        .experience {
+            margin-top: 20px;
+        }
+        .education {
+            margin-top: 20px;
+        }
+        .skills {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1><strong>Lakshmi A - HR Manager & Sales Director</strong></h1>
+        
+        <div class="contact-info">
+            <p><strong>Contact:</strong> <a href="mailto:luckypr1502@gmail.com">luckypr1502@gmail.com</a></p>
+            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/lakshmi-a-07132a200">Lakshmi A's LinkedIn Profile</a></p>
+        </div>
+        
+        <div class="summary">
+            <h2>Summary</h2>
+            <p>Hey there! I'm Lakshmi, wearing two hats at Rapid Pulse. As Sales Director, I'm all about driving sales strategies, building strong client relationships, and boosting our revenue. On the HR side, I handle everything from recruitment and employee relations to performance management and compliance. I work closely with our senior management team to craft HR strategies that keep our team engaged and motivated. It's all about fostering a positive work environment and continuous improvement around here!</p>
+        </div>
+        
+        <div class="experience">
+            <h2>Experience</h2>
+            
+            <h3>Rapidpulse Software Consultancy Private Limited</h3>
+            <p>HR Manager & Sales Director</p>
+            <p>February 2024 - Present</p>
+            <p>Hyderabad, Telangana, India</p>
+            <p>As the HR Manager and Sales Director at Rapid Pulse Software Consultancy Private Limited, I lead and manage the company's human resources functions, including recruitment, employee relations, performance management, and compliance with labor laws. I work closely with senior management to develop and implement HR strategies that align with the company's goals, ensuring a positive and productive work environment. Additionally, I focus on talent development, employee engagement, and fostering a culture of continuous improvement and innovation, while also overseeing sales strategies, client relationships, and revenue growth initiatives.</p>
+            
+            <h3>Virtue Software Technologies Private Limited</h3>
+            <p>HR Manager</p>
+            <p>November 2023 - March 2024</p>
+            <p>Hyderabad, Telangana, India</p>
+            <p>Dynamic and results-oriented professional with extensive experience in end-to-end recruitment, background verification, and talent acquisition. Proven track record of managing the complete recruitment life cycle, from sourcing and screening to onboarding. Adept at maintaining and updating employee databases, conducting exit interviews, and handling recruitment drives. Experienced in candidate tracking, documentation processing, and maintaining internal databases. Proficient in utilizing sourcing tools such as Naukri.com, Monster, LinkedIn, Hirist, and Indeed to build candidate pipelines across various skill sets and hierarchy levels. Also proficient in exit formalities and onboarding processes.</p>
+
+            <h3>SMARTnCODE Technologies Pvt. Ltd</h3>
+            <p>HR Recruiter</p>
+            <p>December 2022 - November 2023</p>
+            <p>Hyderabad, Telangana, India</p>
+            <p>At SMARTnCODE Technologies Pvt. Ltd., I managed the full recruitment life cycle, including sourcing, screening, and onboarding candidates. I effectively utilized platforms like Naukri, LinkedIn, Hirist, Indeed, and Monster to identify and attract talent. My responsibilities included verifying documents, conducting background checks, and maintaining the employee database. Additionally, I facilitated both virtual and physical onboarding sessions, ensuring smooth transitions for new hires. I also handled internal recruiting, joining formalities, and employee documentation.</p>
+          
+            <h3>TetriQ Solutions Pvt Ltd</h3>
+            <p>IT Recruiter</p>
+            <p>January 2021 - December 2022</p>
+            <p>Hyderabad, Telangana, India</p>
+            <p>At TetriQ Solutions Pvt Ltd, I was responsible for managing the complete recruitment life cycle, from sourcing and screening to onboarding candidates. My role involved developing a strong candidate pipeline through various sourcing tools like Naukri, LinkedIn, and social media. I efficiently handled document verification, background checks, and maintained an updated internal employee database. Additionally, I conducted exit interviews, scheduled and followed up on candidate interviews, and prepared comprehensive hiring reports.</p>
+
+            <h3>Talent Q</h3>
+            <p>HR Recruiter</p>
+            <p>August 2019 - December 2020</p>
+            <p>Hyderabad, Telangana, India</p>
+            <p>At Talent Q, I specialized in deriving job descriptions and sourcing candidates through platforms like Monster, Shine.com, and Indeed. My responsibilities included screening profiles, forwarding job descriptions to candidates, shortlisting suitable candidates, and scheduling interviews with clients. I conducted telephonic and personal interviews, handled salary negotiations, and maintained a detailed database and tracker sheet. I ensured follow-up with placed candidates and new recruits.</p>
+   
+        </div>
+        
+        <div class="education">
+            <h2>Education</h2>
+            <p><strong>Rayalaseema University, Kurnool</strong><br>
+            B.Sc, Computer Science</p>
+            <p><strong>Rayalaseema University, Kurnool</strong><br>
+            Master of Business Administration - MBA, Human Resources Management and Services</p>
+            <p><strong>SIMS College of Life Sciences, Guntur</strong><br>
+            Intermediate, Bipc</p>
+        </div>
+        
+        <div class="skills">
+            <h2>Top Skills</h2>
+            <ul>
+                <li>Employee engagement</li>
+                <li>Employee experience expertise</li>
+                <li>Ethical and Professional Practice</li>
+                <li>Talent Acquisition Management</li>
+                <li>Strategic workforce planning</li>
+            </ul>
+        </div>
+        
+    </div>
+</body>
+</html>
